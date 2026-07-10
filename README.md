@@ -42,7 +42,7 @@ Python, Pandas, NumPy, Scikit-learn, Matplotlib, PokémonTCG API, Google Colab
 
 This dataset contains Pokémon Trading Card Game card metadata and market price information collected through the PokémonTCG API. Each record includes structured attributes such as rarity, set, card type, artist, supertypes, subtypes, release information, and TCGPlayer market price data.
 
-The PokémonTCG API contains approximately 18,000 unique Pokémon card records. Because API access for version 1 was unavailable during the final stage of this project, I used a saved dataset of U.S.-released cards collected up to 2026-01-02. After flattening the available market price fields, the final dataset contained 33,005 card-price observations.
+The PokémonTCG API contains approximately 18,000 unique Pokémon card records. Because API access for version 1 was unavailable during the final stage of this project, I used a saved dataset of U.S.-released cards collected up to 2026-01-25. After flattening the available market price fields, the final dataset contained 33,005 card-price observations.
 
 *Market prices are highly volatile and may be affected by collector demand, speculation, and market manipulation. As a result, the conclusions from this project should be interpreted as correlations rather than causal claims. The dataset also lacks important contextual features such as card condition, grading status, print population, and historical market trends.*
 
