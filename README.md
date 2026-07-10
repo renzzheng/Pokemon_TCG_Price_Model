@@ -1,4 +1,5 @@
 # Pokémon TCG Price Model
+<img width="1154" height="559" alt="image" src="https://github.com/user-attachments/assets/ad8e4a4f-a094-4dbb-990b-cd4ebcf0508a" />
 
 Machine learning project that predicts Pokémon trading card market prices from structured card metadata using the PokémonTCG API.
 
